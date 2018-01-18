@@ -1,5 +1,7 @@
 # Android官方培训课程中文版(v0.9.7)
 
+> 本开源书 forked from [Android官方培训课程中文版(v0.9.7)](https://github.com/kesenhoo/android-training-course-in-chinese)，作者为 [kesenhoo](https://github.com/kesenhoo)，欢迎大家 star 原作者的 [repo](https://github.com/kesenhoo/android-training-course-in-chinese)，以便获得最新更新，谢谢！
+
 ![Android Training](android_training.jpg)
 
 Google Android团队在2012年的时候开设了**Android Training**板块 - <http://developer.android.com/training/index.html>，这些课程是学习Android应用开发的绝佳资料。我们通过Github发起开源协作翻译的项目，完成中文版的输出，欢迎大家传阅学习！
